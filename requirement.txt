@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 openai
 langchain
 streamlit
@@ -5,3 +6,10 @@ python-dotenv
 PyPDF2
 
 -e .
+=======
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+>>>>>>> f1815c62b3360b6ccd115d25b673eaf9d9828ca7
