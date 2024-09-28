@@ -1,0 +1,6 @@
+MCQ,choices,correct
+What is machine learning?,a : A field of study in artificial intelligence concerned with developing and studying statistical algorithms that can learn from data|b : A field of study in natural language processing|c : A field of study in computer vision|d : A field of study in speech recognition,a
+Which field does machine learning find applications in?,a : Agriculture|b : Astronomy|c : Zoology|d : Botany,a
+What is the foundation of machine learning?,a : Data mining|b : Statistics and mathematical optimization|c : Exploratory data analysis|d : Natural language processing,b
+What is the theoretical framework for describing machine learning?,a : Probably accurate correct (PAC) learning|b : Definitely accurate correct (DAC) learning|c : Approximately accurate correct (AAC) learning|d : Precisely accurate correct (PAC) learning,a
+What is the application of machine learning to business problems known as?,a : Natural language processing|b : Predictive analytics|c : Computer vision|d : Speech recognition,b
